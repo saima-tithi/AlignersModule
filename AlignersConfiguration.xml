@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='us-ascii'?> 
+
+<!-- A set of mapping tools --> 
+
+<Mappingtools>
+	<tool>
+		<name>BWA</name>
+		<directory>/home/saima/bwa-0.7.15/</directory>
+	</tool>
+	<tool>
+		<name>BWA-MEM</name>
+		<directory>/home/saima/bwa-0.7.15/</directory>
+	</tool>
+	<tool>
+		<name>Bowtie2</name>
+		<directory>/home/saima/bowtie2-2.2.9/</directory>
+	</tool>
+</Mappingtools>

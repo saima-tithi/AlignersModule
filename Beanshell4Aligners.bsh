@@ -1,0 +1,5 @@
+import alignersmodule.AlignerMainFrame;
+
+AlignerMainFrame obj = new AlignerMainFrame();
+
+String outputFilePath = obj.getMainFrame(inputFilePath, refFilePath);
